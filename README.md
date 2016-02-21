@@ -2,7 +2,7 @@
 
 This repository gather information useful to make soft parts compatible with Poppy robots. It currently includes:
 
-- beta connector: [[stl]](beta_connector/beta_connector.stl) [[onshape]](https://cad.onshape.com/documents/56af95b6e4b06a92e0eda720/w/a53eaed345df8e54532db1e2/e/a165c83ad81843f33ed38c05)
+- [beta connector](beta_connector): [[stl]](beta_connector/beta_connector.stl) [[onshape]](https://cad.onshape.com/documents/56af95b6e4b06a92e0eda720/w/a53eaed345df8e54532db1e2/e/a165c83ad81843f33ed38c05)
 
 ![gif](beta_connector/beta_connector.gif)
 
